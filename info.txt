@@ -1,0 +1,2 @@
+Estos archivos los usamos en la asignatura cuando vemos el estudio de las cuádricas. En años anteriores usábamos el software MAXIMA, hace un par de años nos pasamos a SAGEMATH.
+El código es MUY rudimentario, pero no lo he modificiado por falta de tiempo.
