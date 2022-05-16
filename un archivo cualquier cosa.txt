@@ -6,3 +6,35 @@ que buenooooo se puede modificar desde acá
 mmm... que probamos acá?? vía git modificamos
 
 se habra cambiado?
+
+----
+se cambio!
+
+hice asi:
+
+>git pull origin branchiso, no se si hizo algo
+
+luego hice
+
+>git branch
+
+no me mostro nada, pero cuando hice
+
+>git branch -a
+
+aparecio la branchiso, asi que hice
+
+>git checkout branchiso
+
+y como que ahi si me meti en la rama
+
+entonces modifiqué el txt y puse
+
+>git add .
+>git commit -m "algo"
+
+y luego puse
+
+>git push origin branchiso
+
+y ahí se cambió!!!
